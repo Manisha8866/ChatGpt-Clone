@@ -11,12 +11,13 @@
 <p align="center"> Chatgpt-clone built using MongoDB, Express, React, and Node.js
 
 ## 📝 Table of Contents
+```
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
-
+```
 ## 🧐 About <a name = "about"></a>
 Mern Stack ChatGPT Clone Mern Stack Project Mern App
 Full-Stack Web Development using the MERN Stack
@@ -40,7 +41,7 @@ In this MERN stack, we'll walk you through the process of building a full-stack 
 
 
 ### Prerequisites
-
+```
 npm install ,
 chatgpt-api key ,
 npm add , 
@@ -48,27 +49,28 @@ install react dependancy ,
 install node dependancy,
 Express,
 install Node.js .
-
+```
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
-
+```
 npx craete-react-app chatgpt-clone
 npm run dev
 npm start 
 running project.
-
+```
 ## 🎈 Usage <a name="usage"></a>
-
+```
 ChatGPT can be used to create intelligent chatbots that can converse with users in natural language.
 These chatbots can be used for customer service or support to produce human like responses, as well as for personal virtual assistants
-
+```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
+```
 - [MongoDB](www.mongodb.com/) - Database
 - [Express](expressjs.com/) - Server Framework
 - [reactJs](reactjs.org/) - Web Framework
 - [NodeJs](nodejs.org/en/) - Server Environment
-
+```
  --------
   [TODO](../TODO.md) 
   ```

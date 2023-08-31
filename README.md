@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# project-documentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qIaIO4MDGLb6qZpdut3TfArviQIsqkmp_71ksXBSF-rsQSit " alt="Project logo"></a>
+</p>
 
-## Available Scripts
+<h3 align="center">Chatgpt-clone3</h3>
+---
 
-In the project directory, you can run:
+<p align="center"> Chatgpt-clone built using MongoDB, Express, React, and Node.js
 
-### `npm start`
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧐 About <a name = "about"></a>
+Mern Stack ChatGPT Clone Mern Stack Project Mern App
+Full-Stack Web Development using the MERN Stack
+In this MERN stack, we'll walk you through the process of building a full-stack web application using MongoDB, Express, React, and Node.js. You'll learn how to build a responsive and dynamic user interface with React, create a back-end API with Express and Node.js, and store data in a NoSQL database with MongoDB. This step-by-step web development tutorial is perfect for beginners who want to learn how to build full-stack web applications from scratch.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (7)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/52273906-4943-4c36-825d-ea51daf7c8fd)
 
-### `npm test`
+![Screenshot (8)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/402d836b-1ad9-489a-b84f-dd8f173d3214)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (9)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/cad65bdb-f28c-4800-bff9-c91d3d0cf9c0)
 
-### `npm run build`
+![Screenshot (10)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/3555a8ad-3843-4784-b81f-bed8f854cb8a)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (11)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/411d6f17-4c6c-4129-8ce9-20b3a9c7ca57)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot (12)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/ddb98e6c-ba51-48c6-9b38-e4a185207454)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (13)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/3a094e66-88b7-4ff9-a0f6-3be01e147b9f)
 
-### `npm run eject`
+![Screenshot (14)](https://github.com/Manisha8866/ChatGpt-Clone/assets/128820670/2bad52c2-ef24-4bfd-b6f7-3970cfac0d77)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm install ,
+chatgpt-api key ,
+npm add , 
+install react dependancy ,
+install node dependancy,
+Express,
+install Node.js .
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Installing
+A step by step series of examples that tell you how to get a development env running.
 
-## Learn More
+npx craete-react-app chatgpt-clone
+npm run dev
+npm start 
+running project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎈 Usage <a name="usage"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ChatGPT can be used to create intelligent chatbots that can converse with users in natural language.
+These chatbots can be used for customer service or support to produce human like responses, as well as for personal virtual assistants
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ⛏️ Built Using <a name = "built_using"></a>
+- [MongoDB](www.mongodb.com/) - Database
+- [Express](expressjs.com/) - Server Framework
+- [reactJs](reactjs.org/) - Web Framework
+- [NodeJs](nodejs.org/en/) - Server Environment
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ --------
+  [TODO](../TODO.md) 
+  ```
+- create signup page.
+- create user account page.
+- create home page and in the including like : Text Generation  , Parapgraph Generation, AI ChatBot , Javascript Converter, AI SCIFI Images etc .
+- Then after if i click  Text Generation and summar page  and if i clicked Parapgraph Generation then it will show Generate Parapgraph.i clicked AI ChatBot
+  then it will show AI ChatBot with AI chatbot .and if i clicked Javascript Converter then it will show translate to english to Javascript . and if i clickedAI SCIFI 
+  Images then it will show generates AI SCIFI Images.
+```
